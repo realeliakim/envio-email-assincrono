@@ -63,7 +63,7 @@
                   <td class="center"><span class="badge status badge-danger">{{$email->status}}</span></td>
                   @endif
                   <td class="center">{{date('d/m/Y H:i', strtotime($email->data_envio))}}</td>
-                  <td class="center flex">
+                  <td class="flex">
                     <button type="button" class="action btn btn-dark btn-sm text-light" data-toggle="modal" data-target="#a{{$email->id}}">
                       Visualizar
                     </button>

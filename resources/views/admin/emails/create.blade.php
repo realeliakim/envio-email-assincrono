@@ -44,9 +44,7 @@
                     <input id="email" type="email" class="form-control" name="email[]" placeholder="Email" value="" required autocomplete="" autofocus>
                   </div>
                   <div class="col-md-1 col-form-label text-md-center">
-                    <button onClick=adicionar(); class="adicionar btn btn-info btn-sm text-light">
-                      +
-                    </button>
+                    <input type="button" value="+" onClick=adicionar(); class="adicionar btn btn-info btn-sm text-light" >
                   </div>
                 </div>
 

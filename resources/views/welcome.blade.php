@@ -37,18 +37,21 @@
                 </div>
             @endif
 
-          <div class="bee">
-            <div class="text-bee">
-              <h1>
-                <strong>
-                 Crie sua conta no nosso <br />
-                  sistema de envio de emails
-                </strong>
-              </h1>
+            <div>
+              <div class="text-bee">
+                <h1>
+                  <strong>
+                    Crie sua conta no nosso <br />
+                      sistema de envio de emails
+                  </strong>
+                </h1>
+              </div>
+
+              <div class="smartphone">
+                <img src="../assets/images/smartphone-hand.png" alt="smartphone" />
+              </div>
             </div>
-            <div class="bg-bee">
-              <img src="../assets/images/smartphone-hand.png" alt="smartphone" />
-            </div>
-          </div>
+
+        </div>
     </body>
 </html>

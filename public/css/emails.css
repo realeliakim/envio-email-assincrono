@@ -28,6 +28,7 @@ a:link{
 
 .flex{
   display: flex;
+  justify-content: center;
 }
 
 .btn-edit, .btn-delete{
