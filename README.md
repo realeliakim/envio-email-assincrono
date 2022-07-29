@@ -1,26 +1,7 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.beedelivery.com.br/site-v3/img/logo_grey.png" width="400"></a></p>
+# Plataforma envio de email assíncrono 
 
 
-# Teste para desenvolvedor web Laravel
-
-### Objetivos do teste:
-
-Conhecer as aptidões do candidato em:
-
-- **Laravel**
-- **Bootstrap ou Tailwindcss**
-- **Interpretação dos requisitos**
-- **Determinação**
-- **Banco de dados MySql**
-
-
-Todo e qualquer código desenvolvido neste teste não será utilizado em quaisquer outros softwares nem comercializados.
-
-O propósito deste teste é apenas avaliar o conhecimento em programação do candidato.
-
-Este teste é destinado ao processo seletivo para a vaga de Desenvolvedor Web na Bee Delivery. 
-
-Desenvolver uma aplicação que se aproxime de uma plataforma para envio de e-mail marketing. A plataforma deve possibilitar que um usuário autenticado crie, edite, exclua e envie emails para um ou múltiplos destinatários (diferencial). 
+Desenvolver uma aplicação que se aproxime de uma plataforma para envio de e-mail marketing. A plataforma deve possibilitar que um usuário autenticado crie, edite, exclua e envie emails para um ou múltiplos destinatários. 
 
 O desenvolvimento da plataforma de e-mail marketing deve atender aos seguintes requisitos:
 
